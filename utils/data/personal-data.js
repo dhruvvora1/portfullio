@@ -8,5 +8,5 @@ export const personalData = {
   address: 'Punagam, Surat',
   github: 'https://github.com/dhruvvora1',
   linkedIn: 'https://www.linkedin.com/in/dhruvin-vora-b86592224/',
-  resume: "https://drive.google.com/file/d/1752cEqgV7OD_t8sl08fuOHVl4Fc7b1EZ/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1VaZCxheEXEd1kXEMYgDP39wNNz0lMuUM/view?usp=sharing"
 }
